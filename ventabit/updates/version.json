@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "url": "https://github.com/TechnoBit-Ventabit/ventabit-updates/releases/latest/download/INSTALADOR_VENTABIT_CLIENTE.exe",
-  "notes": "Mejoras visuales, apertura de cajón de dinero y correcciones generales.",
+  "notes": "Corrección definitiva del efectivo contado en cierre de turno, ventana de actualización estilo VENTABIT y mejoras generales.",
   "mandatory": false
 }
