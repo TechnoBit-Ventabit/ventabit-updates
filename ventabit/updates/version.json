@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "url": "https://github.com/TechnoBit-Ventabit/ventabit-updates/releases/latest/download/INSTALADOR_VENTABIT_CLIENTE.exe",
-  "notes": "Corrección visual del aviso de actualización.",
+  "notes": "Mejoras en licencias permanentes y control de actualizaciones.",
   "mandatory": false
 }
