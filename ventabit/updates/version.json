@@ -1,6 +1,6 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "url": "https://github.com/TechnoBit-Ventabit/ventabit-updates/releases/latest/download/INSTALADOR_VENTABIT_CLIENTE.exe",
-  "notes": "Mejoras en licencias permanentes y control de actualizaciones.",
+  "notes": "Se agregan pagos con tarjeta y transferencia, con campo opcional de observaciones.",
   "mandatory": false
 }
