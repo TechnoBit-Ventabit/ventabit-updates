@@ -1,6 +1,6 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "url": "https://github.com/TechnoBit-Ventabit/ventabit-updates/releases/latest/download/INSTALADOR_VENTABIT_CLIENTE.exe",
-  "notes": "Se agregan pagos con tarjeta y transferencia, con campo opcional de observaciones.",
+  "notes": "Nuevo módulo de Compras y Proveedores, historial de compras, control de costos y precios de venta, mejoras visuales y correcciones de texto.",
   "mandatory": false
 }
