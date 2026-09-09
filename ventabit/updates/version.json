@@ -1,6 +1,6 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "url": "https://github.com/TechnoBit-Ventabit/ventabit-updates/releases/latest/download/INSTALADOR_VENTABIT_CLIENTE.exe",
-  "notes": "Nuevo módulo de Compras y Proveedores, historial de compras, control de costos y precios de venta, mejoras visuales y correcciones de texto.",
+  "notes": "Nuevo sistema de respaldos automáticos y manuales, restauración segura de base de datos y soporte para migración de información entre equipos.",
   "mandatory": false
 }
