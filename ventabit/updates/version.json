@@ -1,6 +1,7 @@
 {
-  "version": "1.0.8",
+  "version": "1.0.9",
   "url": "https://github.com/TechnoBit-Ventabit/ventabit-updates/releases/latest/download/INSTALADOR_VENTABIT_CLIENTE.exe",
-  "notes": "Mejoras en descuentos, cálculo de precio por porcentaje, trazabilidad de cajeros y filtros automáticos en reportes.",
+  "sha256": "CA04E77CCAC70BC78D167ADF8EBE6EE93A127089FB8ED454AF91C7E4A188D48B",
+  "notes": "Mejoras visuales en ventas y descuentos, edición de precio por artículo, cobro con teclado, cálculo por porcentaje y configuración flexible del cajón de dinero.",
   "mandatory": false
 }
